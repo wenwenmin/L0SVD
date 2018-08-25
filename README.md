@@ -1,5 +1,6 @@
-# L0-regularized-SVD
-# L0 regularized sparse Singular Value Decomposition
+# L0 regularized SVD
+The full name of the algorithm is L0 regularized sparse Singular Value Decomposition.
 
-算法细节，请参考下面文献
-Min W, Liu J, Luo F, et al. A Two-Stage Method to Identify Joint Modules From Matched MicroRNA and mRNA Expression Data. IEEE Transactions on Nanobioscience, 2016, 15(4):362-370.
+For details of the algorithm, please refer to the following paper:
+
+WenWen Min, Juan Liu, Fei Luo and Shihua Zhang. A Two-Stage Method to Identify Joint Modules From Matched MicroRNA and mRNA Expression Data. IEEE Transactions on Nanobioscience, 2016, 15(4):362-370.
